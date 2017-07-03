@@ -14,3 +14,6 @@ CREATE (p1)-[:KOMMT_VOR_IN]->(b1);
 CREATE (p2)-[:SCHRIEB_CA_828-830]->(b1);
 
 ----
+
+//graph
+
